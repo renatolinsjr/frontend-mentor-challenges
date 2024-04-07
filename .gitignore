@@ -24,4 +24,4 @@ dist-ssr
 *.sw?
 
 # backups
-recipe-page
+.recipe-page
